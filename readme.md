@@ -6,7 +6,7 @@
 # To do list:
 ## Làm thiết kế giao diện cho starter: Đọc và viết, Nghe, Nói
 ## Làm trang giao diện về giới thiệu Starter
-## Làm Dropdown cho phần thi thử có ielts(từ từ add ielts sau) và starter: 
+## Làm Dropdown cho phần thi thử có ielts(từ từ add ielts sau) và starter tại trang chủ 
 # In progress:
 
 
