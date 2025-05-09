@@ -13,6 +13,11 @@ nav{
     font-weight: 600;
     margin-bottom: 2rem;
 }
+@media screen and (max-width:991px) {
+    nav{
+        margin-left: 0rem !important;
+    }
+}
 .po{
     margin-left: 2rem;
 
@@ -325,7 +330,6 @@ h3{
 }
 .banner{
     width: 100vw;
-    height: 100vh;
     margin: 0;
 }
 .banner img{
